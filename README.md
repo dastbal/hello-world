@@ -1,6 +1,6 @@
 # Overview
 
-This basic program was created to setup hte tools for future works using pyhon and Github
+This basic program was created to setup the tools for future works using pyhon and Github
 
 You can watch a video of a demo to demostrate my program [demo of hello world program ](https://youtu.be/Vv0HkZWzXRo)
 
