@@ -10,7 +10,6 @@ You can watch a video of a demo to demostrate my program [demo of hello world pr
 - Python 3.9
 - Git / Github
 
-{Describe the programming language that you used}
 
 # Useful Websites
 
